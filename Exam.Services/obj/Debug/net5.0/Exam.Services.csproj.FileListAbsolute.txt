@@ -1,0 +1,30 @@
+C:\Users\Muhammadamin\source\repos\Exam\Exam.Services\bin\Debug\net5.0\Exam.Services.deps.json
+C:\Users\Muhammadamin\source\repos\Exam\Exam.Services\bin\Debug\net5.0\Exam.Services.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam.Services\bin\Debug\net5.0\Exam.Services.pdb
+C:\Users\Muhammadamin\source\repos\Exam\Exam.Services\obj\Debug\net5.0\Exam.Services.csproj.AssemblyReference.cache
+C:\Users\Muhammadamin\source\repos\Exam\Exam.Services\obj\Debug\net5.0\Exam.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammadamin\source\repos\Exam\Exam.Services\obj\Debug\net5.0\Exam.Services.AssemblyInfoInputs.cache
+C:\Users\Muhammadamin\source\repos\Exam\Exam.Services\obj\Debug\net5.0\Exam.Services.AssemblyInfo.cs
+C:\Users\Muhammadamin\source\repos\Exam\Exam.Services\obj\Debug\net5.0\Exam.Services.csproj.CoreCompileInputs.cache
+C:\Users\Muhammadamin\source\repos\Exam\Exam.Services\obj\Debug\net5.0\Exam.Services.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam.Services\obj\Debug\net5.0\refint\Exam.Services.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam.Services\obj\Debug\net5.0\Exam.Services.pdb
+C:\Users\Muhammadamin\source\repos\Exam\Exam.Services\obj\Debug\net5.0\ref\Exam.Services.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam.Services\bin\Debug\net5.0\Domain.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam.Services\bin\Debug\net5.0\Domain.pdb
+C:\Users\Muhammadamin\source\repos\Exam\Exam.Services\obj\Debug\net5.0\Exam.Services.csproj.CopyComplete
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam.Services\bin\Debug\net5.0\Exam.Services.deps.json
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam.Services\bin\Debug\net5.0\Exam.Services.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam.Services\bin\Debug\net5.0\Exam.Services.pdb
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam.Services\bin\Debug\net5.0\Domain.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam.Services\bin\Debug\net5.0\Domain.pdb
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam.Services\obj\Debug\net5.0\Exam.Services.csproj.AssemblyReference.cache
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam.Services\obj\Debug\net5.0\Exam.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam.Services\obj\Debug\net5.0\Exam.Services.AssemblyInfoInputs.cache
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam.Services\obj\Debug\net5.0\Exam.Services.AssemblyInfo.cs
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam.Services\obj\Debug\net5.0\Exam.Services.csproj.CoreCompileInputs.cache
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam.Services\obj\Debug\net5.0\Exam.Services.csproj.CopyComplete
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam.Services\obj\Debug\net5.0\Exam.Services.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam.Services\obj\Debug\net5.0\refint\Exam.Services.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam.Services\obj\Debug\net5.0\Exam.Services.pdb
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam.Services\obj\Debug\net5.0\ref\Exam.Services.dll

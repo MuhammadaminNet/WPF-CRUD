@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Muhammadamin\\source\\repos\\Exam\\Exam\\Exam.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Muhammadamin\\source\\repos\\Exam\\Domain\\Exam.Domain.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Muhammadamin\\source\\repos\\Exam\\Domain\\Exam.Domain.csproj",
+        "projectName": "Exam.Domain",
+        "projectPath": "C:\\Users\\Muhammadamin\\source\\repos\\Exam\\Domain\\Exam.Domain.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Muhammadamin\\source\\repos\\Exam\\Exam.Services\\Exam.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Muhammadamin\\source\\repos\\Exam\\Exam.Services\\Exam.Services.csproj",
+        "projectName": "Exam.Services",
+        "projectPath": "C:\\Users\\Muhammadamin\\source\\repos\\Exam\\Exam.Services\\Exam.Services.csproj",
+        "packagesPath": "C:\\Users\\Muhammadamin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Muhammadamin\\source\\repos\\Exam\\Exam.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Muhammadamin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Muhammadamin\\source\\repos\\Exam\\Domain\\Exam.Domain.csproj": {
+                "projectPath": "C:\\Users\\Muhammadamin\\source\\repos\\Exam\\Domain\\Exam.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Muhammadamin\\source\\repos\\Exam\\Exam\\Exam.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Muhammadamin\\source\\repos\\Exam\\Exam\\Exam.csproj",
+        "projectName": "Exam",
+        "projectPath": "C:\\Users\\Muhammadamin\\source\\repos\\Exam\\Exam\\Exam.csproj",
+        "packagesPath": "C:\\Users\\Muhammadamin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Muhammadamin\\source\\repos\\Exam\\Exam\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Muhammadamin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Muhammadamin\\source\\repos\\Exam\\Exam.Services\\Exam.Services.csproj": {
+                "projectPath": "C:\\Users\\Muhammadamin\\source\\repos\\Exam\\Exam.Services\\Exam.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Threading.Thread": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+﻿<UserControl x:Class="Exam.UI.Controls.UserCards"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:local="clr-namespace:Exam.UI.Controls"
+             mc:Ignorable="d" 
+             Height="50" Width="170">
+    <Button BorderBrush="Transparent" Cursor="Hand" Background="#17212B" Padding="0" Height="50" Width="170" ClickMode="Press">
+        <Grid Width="170" Height="50">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1.8*"/>
+                <ColumnDefinition Width="3.2*"/>
+                <ColumnDefinition Width="1.2*"/>
+            </Grid.ColumnDefinitions>
+            <Ellipse Margin="3" Grid.Column="0" Stroke="AliceBlue">
+                <Ellipse.Fill>
+                    <ImageBrush x:Name="StudentImg" 
+                        ImageSource="https://talabamiz.uz/Images//99daf8ac38de4433aa36a61baf4c9c4d.png"/>
+                </Ellipse.Fill>
+            </Ellipse>
+            <StackPanel Grid.Column="1" Margin="3">
+                <TextBlock Name="NameTxtBlock" Text="Name..." FontSize="10" 
+                           Margin="0 6 0 0" FontWeight="DemiBold"/>
+                
+                <TextBlock Name="FacultyTxtBlock" Text="Faculty..." FontSize="8" 
+                           Margin="0 4 0 0" FontWeight="UltraLight"/>
+            </StackPanel>
+            <Border Grid.Column="2" Width="30" Height="30" Background="Snow" 
+                    CornerRadius="50" md:ColorZoneAssist.Background="Black">
+                <TextBlock Name="IdOfStudent" Text="19111" FontSize="12" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+        </Grid>
+    </Button>
+</UserControl>

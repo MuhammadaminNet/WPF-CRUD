@@ -1,0 +1,102 @@
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Exam.exe
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Exam.deps.json
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Exam.runtimeconfig.json
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Exam.runtimeconfig.dev.json
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Exam.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Exam.pdb
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\Exam.csproj.AssemblyReference.cache
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\Exam_MarkupCompile.cache
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\Exam_MarkupCompile.lref
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\App.baml
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\Exam.g.resources
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\Exam.AssemblyInfoInputs.cache
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\Exam.AssemblyInfo.cs
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\Exam.csproj.CoreCompileInputs.cache
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\Exam.csproj.CopyComplete
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\Exam.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\refint\Exam.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\Exam.pdb
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\Exam.genruntimeconfig.cache
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\ref\Exam.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\UI\Controls\UserCards.g.cs
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\UI\Controls\UserCards.baml
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Domain.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Exam.Services.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Exam.Services.pdb
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Domain.pdb
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\checking.g.cs
+C:\Users\Muhammadamin\source\repos\Exam\Exam\obj\Debug\net5.0-windows\checking.baml
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Muhammadamin\source\repos\Exam\Exam\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Exam.exe
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Exam.deps.json
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Exam.runtimeconfig.json
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Exam.runtimeconfig.dev.json
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Exam.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Exam.pdb
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Domain.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Exam.Services.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Exam.Services.pdb
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\bin\Debug\net5.0-windows\Domain.pdb
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\Exam.csproj.AssemblyReference.cache
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\checking.g.cs
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\UI\Controls\UserCards.g.cs
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\Exam_MarkupCompile.cache
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\Exam_MarkupCompile.lref
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\App.baml
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\checking.baml
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\UI\Controls\UserCards.baml
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\Exam.g.resources
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\Exam.AssemblyInfoInputs.cache
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\Exam.AssemblyInfo.cs
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\Exam.csproj.CoreCompileInputs.cache
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\Exam.csproj.CopyComplete
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\Exam.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\refint\Exam.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\Exam.pdb
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\Exam.genruntimeconfig.cache
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Exam\obj\Debug\net5.0-windows\ref\Exam.dll

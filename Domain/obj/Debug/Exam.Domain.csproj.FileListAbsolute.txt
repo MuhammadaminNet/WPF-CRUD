@@ -1,0 +1,16 @@
+C:\Users\Muhammadamin\source\repos\Exam\Domain\bin\Debug\Domain.dll
+C:\Users\Muhammadamin\source\repos\Exam\Domain\bin\Debug\Domain.pdb
+C:\Users\Muhammadamin\source\repos\Exam\Domain\obj\Debug\Exam.Domain.csproj.AssemblyReference.cache
+C:\Users\Muhammadamin\source\repos\Exam\Domain\obj\Debug\Exam.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Muhammadamin\source\repos\Exam\Domain\obj\Debug\Domain.dll
+C:\Users\Muhammadamin\source\repos\Exam\Domain\obj\Debug\Domain.pdb
+C:\Users\Muhammadamin\source\repos\Exam\Domain\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Muhammadamin\source\repos\Exam\Domain\obj\Debug\Exam.Domain.csproj.CopyComplete
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Domain\bin\Debug\Domain.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Domain\bin\Debug\Domain.pdb
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Domain\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Domain\obj\Debug\Exam.Domain.csproj.AssemblyReference.cache
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Domain\obj\Debug\Exam.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Domain\obj\Debug\Exam.Domain.csproj.CopyComplete
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Domain\obj\Debug\Domain.dll
+C:\Users\Muhammadamin\Downloads\Telegram Desktop\Exam\Domain\obj\Debug\Domain.pdb

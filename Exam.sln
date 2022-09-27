@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exam", "Exam\Exam.csproj", "{F50CFE23-7E1B-4C7F-9CD5-0F01091707AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam.Domain", "Domain\Exam.Domain.csproj", "{0A49F5FB-DD43-4054-B939-44A5E4DE5A9E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exam.Services", "Exam.Services\Exam.Services.csproj", "{13A6ED1E-6F73-4C3A-AA01-B5F43596A1C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F50CFE23-7E1B-4C7F-9CD5-0F01091707AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50CFE23-7E1B-4C7F-9CD5-0F01091707AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50CFE23-7E1B-4C7F-9CD5-0F01091707AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50CFE23-7E1B-4C7F-9CD5-0F01091707AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A49F5FB-DD43-4054-B939-44A5E4DE5A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A49F5FB-DD43-4054-B939-44A5E4DE5A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A49F5FB-DD43-4054-B939-44A5E4DE5A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A49F5FB-DD43-4054-B939-44A5E4DE5A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A6ED1E-6F73-4C3A-AA01-B5F43596A1C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A6ED1E-6F73-4C3A-AA01-B5F43596A1C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A6ED1E-6F73-4C3A-AA01-B5F43596A1C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A6ED1E-6F73-4C3A-AA01-B5F43596A1C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41D766D6-26F0-4129-9C5C-1CD6EB838CD2}
+	EndGlobalSection
+EndGlobal
