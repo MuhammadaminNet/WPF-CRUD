@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Muhammadamin\\Downloads\\Telegram Desktop\\Exam\\Exam.Services\\Exam.Services.csproj": {}
+    "C:\\Users\\Muhammadamin\\source\\repos\\WPF-CRUD\\Exam.Services\\Exam.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Muhammadamin\\Downloads\\Telegram Desktop\\Exam\\Domain\\Exam.Domain.csproj": {
+    "C:\\Users\\Muhammadamin\\source\\repos\\WPF-CRUD\\Domain\\Exam.Domain.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammadamin\\Downloads\\Telegram Desktop\\Exam\\Domain\\Exam.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammadamin\\source\\repos\\WPF-CRUD\\Domain\\Exam.Domain.csproj",
         "projectName": "Exam.Domain",
-        "projectPath": "C:\\Users\\Muhammadamin\\Downloads\\Telegram Desktop\\Exam\\Domain\\Exam.Domain.csproj",
+        "projectPath": "C:\\Users\\Muhammadamin\\source\\repos\\WPF-CRUD\\Domain\\Exam.Domain.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -19,14 +19,14 @@
         "net472": {}
       }
     },
-    "C:\\Users\\Muhammadamin\\Downloads\\Telegram Desktop\\Exam\\Exam.Services\\Exam.Services.csproj": {
+    "C:\\Users\\Muhammadamin\\source\\repos\\WPF-CRUD\\Exam.Services\\Exam.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammadamin\\Downloads\\Telegram Desktop\\Exam\\Exam.Services\\Exam.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammadamin\\source\\repos\\WPF-CRUD\\Exam.Services\\Exam.Services.csproj",
         "projectName": "Exam.Services",
-        "projectPath": "C:\\Users\\Muhammadamin\\Downloads\\Telegram Desktop\\Exam\\Exam.Services\\Exam.Services.csproj",
+        "projectPath": "C:\\Users\\Muhammadamin\\source\\repos\\WPF-CRUD\\Exam.Services\\Exam.Services.csproj",
         "packagesPath": "C:\\Users\\Muhammadamin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhammadamin\\Downloads\\Telegram Desktop\\Exam\\Exam.Services\\obj\\",
+        "outputPath": "C:\\Users\\Muhammadamin\\source\\repos\\WPF-CRUD\\Exam.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Muhammadamin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,8 +43,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Muhammadamin\\Downloads\\Telegram Desktop\\Exam\\Domain\\Exam.Domain.csproj": {
-                "projectPath": "C:\\Users\\Muhammadamin\\Downloads\\Telegram Desktop\\Exam\\Domain\\Exam.Domain.csproj"
+              "C:\\Users\\Muhammadamin\\source\\repos\\WPF-CRUD\\Domain\\Exam.Domain.csproj": {
+                "projectPath": "C:\\Users\\Muhammadamin\\source\\repos\\WPF-CRUD\\Domain\\Exam.Domain.csproj"
               }
             }
           }

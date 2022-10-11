@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pPypA2nJX6zs+NLPiyMbDJ7tQCQbqMbCeqZ6OQoH8OtmZZV1I3Eg8gjqmwSb0Kl5mIro3hhBUq0hKqVm/l+Fqg==",
+  "dgSpecHash": "5mku/njYTpW7NOrMDhwjTV3txj0S/Lo6KRl+/rKxXxRojY7ed/kOvEOns/zgOL1pIepsdKZImvIPqJj8kkNPOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Muhammadamin\\Downloads\\Telegram Desktop\\Exam\\Exam\\Exam.csproj",
+  "projectFilePath": "C:\\Users\\Muhammadamin\\source\\repos\\WPF-CRUD\\Exam\\Exam.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Muhammadamin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Muhammadamin\\.nuget\\packages\\materialdesigncolors\\2.0.6\\materialdesigncolors.2.0.6.nupkg.sha512",

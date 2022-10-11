@@ -1163,11 +1163,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Muhammadamin\\Downloads\\Telegram Desktop\\Exam\\Exam\\Exam.csproj",
+      "projectUniqueName": "C:\\Users\\Muhammadamin\\source\\repos\\WPF-CRUD\\Exam\\Exam.csproj",
       "projectName": "Exam",
-      "projectPath": "C:\\Users\\Muhammadamin\\Downloads\\Telegram Desktop\\Exam\\Exam\\Exam.csproj",
+      "projectPath": "C:\\Users\\Muhammadamin\\source\\repos\\WPF-CRUD\\Exam\\Exam.csproj",
       "packagesPath": "C:\\Users\\Muhammadamin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Muhammadamin\\Downloads\\Telegram Desktop\\Exam\\Exam\\obj\\",
+      "outputPath": "C:\\Users\\Muhammadamin\\source\\repos\\WPF-CRUD\\Exam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Muhammadamin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1184,8 +1184,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Muhammadamin\\Downloads\\Telegram Desktop\\Exam\\Exam.Services\\Exam.Services.csproj": {
-              "projectPath": "C:\\Users\\Muhammadamin\\Downloads\\Telegram Desktop\\Exam\\Exam.Services\\Exam.Services.csproj"
+            "C:\\Users\\Muhammadamin\\source\\repos\\WPF-CRUD\\Exam.Services\\Exam.Services.csproj": {
+              "projectPath": "C:\\Users\\Muhammadamin\\source\\repos\\WPF-CRUD\\Exam.Services\\Exam.Services.csproj"
             }
           }
         }

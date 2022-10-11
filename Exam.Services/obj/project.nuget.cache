@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BJbfmpoLhHkKgclLztbwnX0k+UDsFRplLgtB2HjrUO2nH5DzSu3JxQpleKdJgp4X/c6K48rbI64F2Yb/9cc4Mw==",
+  "dgSpecHash": "ECtCj5VbW9zqMjN2Drj3b+TvsXrPtT61myTPoHaSvV5FnPevKFhKmQnrlRerngYCbdzuoXHEHeBQlXnZJmR8hA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Muhammadamin\\Downloads\\Telegram Desktop\\Exam\\Exam.Services\\Exam.Services.csproj",
+  "projectFilePath": "C:\\Users\\Muhammadamin\\source\\repos\\WPF-CRUD\\Exam.Services\\Exam.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Muhammadamin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

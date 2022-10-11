@@ -61,7 +61,7 @@ namespace Exam {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Exam;component/checking.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Exam;V1.0.0.0;component/checking.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\checking.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
